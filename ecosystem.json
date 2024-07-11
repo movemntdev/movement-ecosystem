@@ -595,8 +595,8 @@
     "Gorillaz": {
         "description": "The most epic gorilla community on Movement.",
         "content": "Gorilla moverz is an epic community of gorillas on Movement, and together WAGMI.",
-        "url": "https://www.gorillamoverz.xyz/",
-        "github": "https://github.com/AltayDev",
+        "url": "https://www.gorilla-moverz.xyz/",
+        "github": "",
         "discord": "https://discord.gg/yWNEcv8jxf",
         "telegram": "",
         "twitter": "https://twitter.com/GorillaMoverz",
@@ -617,7 +617,7 @@
             ]
         ],
         "languages": [
-            "Solidity"
+            "AptosMove"
         ],
         "tags": [
             "Testnet",
