@@ -370,7 +370,7 @@
     },
     "Baptswap": {
         "description": "Baptswap is a Decentralized Exchange (DEX) bringing support for fee-on-transfer solutions within a MOVE-based blockchain environment.",
-        "content": "Baptswap is a decentralized exchange (DEX) operating on the Aptos Network, enabling peer-to-peer cryptocurrency exchanges without the need for trusted intermediaries. Baptswap it the first DEX to introduce the fee-on-transfer model to Aptos, enabling teams to apply a fee on each transfer of their token. These fees can be allocated towards various purposes based on each individual team's needs and financial model. Baptswap uses an automated market maker (AMM) model, where users can trade against a liquidity pool of two assets, rather than an order book of buy and sell orders. Liquidity providers can earn fees by depositing their tokens into the pool, and traders can swap any token pair supported by the protocol. Baptswap handles the price calculations and slippage adjustments automatically, making trading fast and simple. Baptswap is leveraging the advantages of the Aptos Network and the MOVE language, through a user-friendly and innovative DEX experience for the DeFi users on Aptos.",
+        "content": "Baptswap is a decentralized exchange (DEX) operating on the Aptos Network, enabling peer-to-peer cryptocurrency exchanges without the need for trusted intermediaries. Baptswap is the first DEX to introduce the fee-on-transfer model to Aptos, enabling teams to apply a fee on each transfer of their token. These fees can be allocated towards various purposes based on each individual team's needs and financial model. Baptswap uses an automated market maker (AMM) model, where users can trade against a liquidity pool of two assets, rather than an order book of buy and sell orders. Liquidity providers can earn fees by depositing their tokens into the pool, and traders can swap any token pair supported by the protocol. Baptswap handles the price calculations and slippage adjustments automatically, making trading fast and simple. Baptswap is leveraging the advantages of the Aptos Network and the MOVE language, through a user-friendly and innovative DEX experience for the DeFi users on Aptos.",
         "url": "https://Baptswap.com",
         "github": "https://github.com/Baptswap",
         "discord": "",
@@ -625,7 +625,7 @@
         ]
     },
     "Avalanche": {
-        "description": "Build anything you want, any way you want on the lightning fast, scalable blockchain that wont let you down.",
+        "description": "Build anything you want, any way you want on the lightning fast, scalable blockchain that won't let you down.",
         "content": "Avalanche is the future-proof blockchain built to scale. Build any thing you want, any way you want on the most developer-friendly Layer 1",
         "url": "https://www.avax.network",
         "github": "https://github.com/ava-labs",
