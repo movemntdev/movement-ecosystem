@@ -257,7 +257,7 @@
         "github": "https://github.com/hyperlane-xyz",
         "discord": "http://discord.gg/hyperlane",
         "telegram": "",
-        "twitter": "https://twitter.com/Hyperlane_xyz",
+        "twitter": "https://twitter.com/hyperlane",
         "contact": "",
         "slug": "hyperlane",
         "keywords": [
@@ -730,7 +730,7 @@
     "Avail": {
         "description": "Accelerating the unification of web3",
         "content": "Avail is a Web3 infrastructure layer that allows modular execution layers to scale and interoperate in a trust minimized way.",
-        "url": "https://razorwallet.xyz/",
+        "url": "https://www.availproject.org/",
         "github": "https://github.com/availproject",
         "discord": "https://discord.gg/availproject",
         "telegram": "t.me/AvailCommunity",
