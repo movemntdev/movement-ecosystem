@@ -6,7 +6,7 @@ This guide outlines the process for aggregating data from Tally, processing it, 
 
 ## Prerequisites
 
-- Ensure you have the necessary login credentials for Tally. Contact Bennett Davis or Movement Team if you don’t have them.
+- Ensure you have the necessary login credentials for Tally. Contact Bennett Davis or the Movement Team if you don’t have them.
 - Make sure Node.js is installed on your machine.
 
 ## Steps
@@ -19,7 +19,7 @@ This guide outlines the process for aggregating data from Tally, processing it, 
 ### 2. Prepare the Repository
 
 1. Place the downloaded `.csv` file into the `process` folder of the repository.
-2. Rename the file to `process.csv`.
+2. Rename the downloaded file to `process.csv`.
 
 ### 3. Run the Processing Script
 
@@ -34,7 +34,7 @@ This guide outlines the process for aggregating data from Tally, processing it, 
    node run.js
    ```
    - This script places the images into the correct folders.
-   - It generates `processed.json`, which holds the protocol information in JSON format.
+   - It generates processed.json, containing the protocol information in JSON format.
 
 ### 4. Update the Ecosystem File
 
