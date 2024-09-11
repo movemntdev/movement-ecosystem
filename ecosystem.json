@@ -3093,5 +3093,37 @@
         "tags": [
             "Testnet"
         ]
+    },
+    "Gmover": {
+        "description": "Gmover is a GameFi Project built on Movement Network.",
+        "content": " Welcome to Gmover. The Movement community will constantly earn by having fun with Gmover, playing games, staking their NFTs, and doing Tasks. The best way to earn while having fun is Gmover. In the Gmover game, each user has 1 land registered on the onchain. However, this Land is barren at first. Users can turn their land into a special area by using farming tools.",
+        "url": "https://www.gmover.xyz/",
+        "github": "",
+        "discord": "https://discord.gg/7xxNewpk88",
+        "telegram": "https://t.me/Gmoverxyz",
+        "twitter": "https://x.com/Gmover_xyz",
+        "contact": "https://t.me/napiyon",
+        "slug": "gmover",
+        "keywords": [
+            "gmover",
+            " gamefi",
+            " playtoearn"
+        ],
+        "categories": [
+            "gamefi"
+        ],
+        "subcategories": [
+            [
+                "GameFi",
+                "Play To Earn",
+                "Community"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
+        ]
     }
 }
