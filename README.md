@@ -8,7 +8,7 @@ Repository for the Movement Ecosystem projects. This aims to facilitate every pr
 
 ### Opening a Pull Request
 
-You can make any changes you want and open a pull request from an account with public record of interacting with related altered data or has had identity confirmed by official channels. The maintainers will review your changes and merge them if they are good to go.
+You can make any changes you want and open a pull request from an account with public record of interacting with related altered data or having their identity confirmed by official channels. The maintainers will review your changes and merge them if they are good to go.
 Refrain from altering unrelated files, as this will only make the review process longer.
 Refrain from adding any sensitive or speculative information to the repository.
 
